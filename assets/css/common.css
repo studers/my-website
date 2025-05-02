@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    max-width: 800px;
+    background-color: white;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+}
